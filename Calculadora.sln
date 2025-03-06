@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Android", "Calculadora.Android\Calculadora.Android.csproj", "{86762EBC-384F-45B4-8A15-C4267D5500ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.iOS", "Calculadora.iOS\Calculadora.iOS.csproj", "{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86762EBC-384F-45B4-8A15-C4267D5500ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86762EBC-384F-45B4-8A15-C4267D5500ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86762EBC-384F-45B4-8A15-C4267D5500ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{86762EBC-384F-45B4-8A15-C4267D5500ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86762EBC-384F-45B4-8A15-C4267D5500ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86762EBC-384F-45B4-8A15-C4267D5500ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{EAE6F7EA-B4E7-4093-AF89-44DC8BD79941}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4932BC3A-47A1-4DAE-B3B9-C5EA25FB6001}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
